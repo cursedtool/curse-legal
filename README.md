@@ -1,0 +1,2 @@
+# curse-legal
+Curse TOS
